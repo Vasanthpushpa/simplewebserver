@@ -46,4 +46,4 @@ httpd.serve_forever()
 
 
 ## RESULT:
-Success
+The program for implementing simple web server is executed successfully
